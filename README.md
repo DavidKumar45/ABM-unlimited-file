@@ -11,7 +11,7 @@
 [3] -> pkg install git -y
 [4] -> pkg install python -y
 [5] -> git clone https://github.com/DavidKumar45/ABM-unlimited-file
-[6] -> cd Abm-Dynamic
+[6] -> cd ABM-unlimited-file
 [7] -> pip install requests && pip install mechanize
 [8] -> pip install requests bs4 && pip install bs4
 [9] -> python dynamic.py
